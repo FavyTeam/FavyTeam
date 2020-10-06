@@ -40,6 +40,10 @@
   <img src=https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg alt=postgresql width="40" height="40"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="40" height="40"/> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="40" height="40"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original-wordmark.svg alt=python width="40" height="40"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original-wordmark.svg alt=python width="40" height="40"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/rubymine/rubymine-original-wordmark.svg alt=python width="40" height="40"/>
+  <img src=https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg alt=python width="40" height="40"/>
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=FavyTeam&show_icons=true alt=FavyTeam /> </p>
