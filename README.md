@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, We're FavyTeam [![FavyTeam's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/favyteam)</h1>
+<h1 align="center">Hi 👋, We're FavyTeam </h1>
+<p align="center">[![FavyTeam's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/favyteam)</p>
 
 <h3 align="center">A eligible developers and engineers for high tech solutions from Russia and Hong Kong</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
