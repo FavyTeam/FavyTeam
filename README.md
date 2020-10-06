@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **Coffee ☕️ and Fish 🎣**
 
+- 👨‍💻 Working on [@david](https://www.ijobdesk.com/freelancer/david-pro)
+
 **😊 
 **📕 Latest dev.to posts [@favyteam](https://dev.to/favyteam)**
 <!-- BLOG-POST-LIST:START -->
