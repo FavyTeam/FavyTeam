@@ -3,25 +3,20 @@
 <h3 align="center">A eligible developers and engineers for high tech solutions from Russia and Hong Kong</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
-- 🔭 I’m currently working on [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- 🔭 We are currently working shopify & blockchain on [Mr-Block](https://www.mr-block.com/)
 
-- 👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
+- 🤔 We are looking for help with [Crypto Denada Social Trading Platform](https://cryptodenada.com/)
 
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-
-- 💬 Ask me about **react, vue and gsap**
+- 💬 Ask me about **react, laravel and blockchain**
 
 - 📫 Reach me at **georgy.kafu@gmail.com**
 
 - 🌐 Reach website at [favydigital.tech](http://favydigital.tech/)
 
-- 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
+- ⚡ Fun fact **Coffee ☕️ and Fish 🎣**
 
-- ⚡ Fun fact **Chai over Coffee ☕️**
-
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://rahuldkjain.github.io/blog)
-
-**📕 Latest dev.to posts [@rahuldkjain](https://dev.to/rahuldkjain)**
+**😊 
+**📕 Latest dev.to posts [@favyteam](https://dev.to/favyteam)**
 <!-- BLOG-POST-LIST:START -->
 - [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
 - [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
