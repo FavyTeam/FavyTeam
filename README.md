@@ -17,6 +17,8 @@
 
 - 👨‍💻 Working on [@david](https://www.ijobdesk.com/freelancer/david-pro)
 
+- 📱 Call me on Whatsapp +7 995 331 2806
+
 **😊 
 **📕 Latest dev.to posts [@favyteam](https://dev.to/favyteam)**
 <!-- BLOG-POST-LIST:START -->
