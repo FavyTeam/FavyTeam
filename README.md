@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We're FavyTeam</h1>
 
-<h3 align="center">A eligiable developers and engineers from Russia and Hong Kong</h3>
+<h3 align="center">A eligible developers and engineers for high tech solutions from Russia and Hong Kong</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
 - 🔭 I’m currently working on [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
@@ -11,7 +11,9 @@
 
 - 💬 Ask me about **react, vue and gsap**
 
-- 📫 Reach me at **rahuldkjain@gmail.com**
+- 📫 Reach me at **georgy.kafu@gmail.com**
+
+- 🌐 Reach website at [favydigital.tech](http://favydigital.tech/)
 
 - 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
 
