@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react, laravel and blockchain**
 
-- 📫 Reach me at **georgy.kafu@gmail.com** and **david@cryptodenada.com**
+- 📫 Reach me at **georgy.kafu@gmail.com**
 
 - 🌐 Reach website at [favydigital.tech](http://favydigital.tech/)
 
