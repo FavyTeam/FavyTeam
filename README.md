@@ -14,15 +14,9 @@
 
 - 💬 Ask me about **react, laravel and blockchain**
 
-- 📫 Reach me at **georgy.kafu@gmail.com**
-
 - 🌐 Reach website at [favydigital.tech](http://favydigital.tech/)
 
 - ⚡ Fun fact **Coffee ☕️ and Fish 🎣**
-
-- 👨‍💻 Working on [@david](https://www.ijobdesk.com/freelancer/david-pro)
-
-- 📱 Call me on Whatsapp +7 995 331 2806
 
 **😊 
 **📕 Latest dev.to posts [@favyteam](https://dev.to/favyteam)**
