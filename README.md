@@ -24,7 +24,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 <p align="center">
-  <img src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg alt=Angularjs />
+  <img src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg alt=Angularjs width=45 height=45/>
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=FavyTeam&show_icons=true alt=FavyTeam /> </p>
