@@ -8,7 +8,7 @@
 <h3 align="center">A eligible developers and engineers for high tech solutions from Russia and Hong Kong</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
-- 🔭 We are currently working shopify & blockchain on [Mr-Block](https://www.mr-block.com/)
+- 🔭 We are currently working shopify & blockchain on [Mr-Block](http://favydigital.tech/mr-block/news-portal/)
 
 - 🤔 We are looking for help with [Crypto Denada Social Trading Platform](https://cryptodenada.com/)
 
