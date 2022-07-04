@@ -30,7 +30,7 @@
   <img src=https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg alt=Apache width=45 height=45/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg alt=Apple width=45 height=45/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg alt=Android width=45 height=45/>
-  <img src=https://github.com/devicons/devicon/blob/master/iconsgo/go-original.svg alt=Go width=45 height=45/>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg alt=Go width=45 height=45/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg alt=Babel width=45 height=45/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg alt=Bash width=45 height=45/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg alt=Django width=45 height=45/>
