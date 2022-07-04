@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<h3 align="center">A eligible developers and engineers for high tech solutions from Russia and Hong Kong</h3>
+<h3 align="center">A eligible developers and engineers for high tech solutions from Russia, Armenia, Hong Kong and United State</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
 - 🔭 We are currently working shopify & blockchain on [Mr-Block](http://favydigital.tech/mr-block/news-portal/)
