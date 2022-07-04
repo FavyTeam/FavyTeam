@@ -5,16 +5,16 @@
   </a>
 </p>
 
-<h3 align="center">A eligible developers and engineers for high tech solutions from Russia, Armenia, Hong Kong and United State</h3>
+<h3 align="center">A eligible developers and engineers for high tech solutions</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
 
 - 🔭 We are currently working shopify & blockchain on [Mr-Block](http://favydigital.tech/mr-block/news-portal/)
 
 - 🤔 We are looking for help with [Crypto Denada Social Trading Platform](https://cryptodenada.com/)
 
-- 💬 Ask me about **react, laravel and blockchain**
+- 🌍 We are from Russia 🇷🇺, Armenia 🇦🇲, Hong Kong 🇭🇰 and United State 🇺🇸
 
-- 🌐 Reach website at [favydigital.tech](http://favydigital.tech/)
+- 💬 Ask me about **React, Laravel and Blockchain**
 
 - ⚡ Fun fact **Coffee ☕️ and Fish 🎣**
 
