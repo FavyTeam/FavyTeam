@@ -27,6 +27,8 @@
   <img src=https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg alt=Solidity width=45 height=45/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg alt=Rust width=45 height=45/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg alt=Angularjs width=45 height=45/>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg alt=React width=45 height=45/>
+  <img src=https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg alt=Vue width=45 height=45/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg alt=Apache width=45 height=45/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg alt=Apple width=45 height=45/>
   <img src=https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg alt=Android width=45 height=45/>
