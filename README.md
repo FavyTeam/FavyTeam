@@ -12,7 +12,7 @@
 
 - 🤔 We are looking for help with [Crypto Denada Social Trading Platform](https://cryptodenada.com/)
 
-- 🌍 We are from Ukraine , Armenia 🇦🇲, Hong Kong 🇭🇰 and United State 🇺🇸
+- 🌍 We are from Ukraine 🇺🇦, Armenia 🇦🇲, Hong Kong 🇭🇰 and United State 🇺🇸
 
 - 💬 Ask me about **React, Laravel and Blockchain**
 
