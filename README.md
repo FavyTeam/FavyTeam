@@ -47,3 +47,9 @@
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=FavyTeam&show_icons=true alt=FavyTeam /> </p>
+
+<h3>Show your Support🤝🏽</h3>
+
+<a href="https://www.buymeacoffee.com/david.semyonov"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
+<br/>
+
